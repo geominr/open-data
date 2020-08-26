@@ -1,314 +1,313 @@
-name,Link,Type,x,y
-Argentina,http://datos.argentina.gob.ar/,International Country,-65.17536077114174,-35.44682148949509
-Australia,http://data.gov.au/,International Country,134.502775475366,-25.73065477972607
-Austria,http://data.gv.at/,International Country,14.07615888433708,47.613948792746285
-Belgium,http://data.gov.be/,International Country,4.580831590651701,50.652442606452105
-Brazil,http://dados.gov.br/,International Country,-53.0543400357671,-10.806773643498916
-Canada,http://open.canada.ca/en,International Country,-98.14238137209725,61.46907614534906
-Chile,http://datos.gob.cl/,International Country,-71.52064394516432,-39.04701430994845
-China,http://govinfo.nlc.gov.cn/,International Country,103.88361628918865,36.55506853517689
-Colombia,www.datos.gov.co,International Country,-73.0777320869748,3.9272138627097037
-Costa Rica,http://datosabiertos.gob.go.cr,International Country,-84.17542309600947,9.965671127464525
-Denmark,http://digitaliser.dk/,International Country,9.87637293767504,56.06393446179454
-Estonia,http://pub.stat.ee/px-web.2001/Dialog/statfile1.asp,International Country,25.82472837531991,58.64369524070697
-Finland,http://www.suomi.fi/suomifi/tyohuone/yhteiset_palvelut/avoin_data/,International Country,26.211764697394532,64.50409391856742
-France,http://data.gouv.fr/,International Country,-2.8805991914038565,42.45771810478766
-Germany,https://www.govdata.de/,International Country,10.288485092742887,51.13372269040782
-Ghana,http://data.gov.gh,International Country,-1.2369685557063996,7.928651813099651
-Greece,http://geodata.gov.gr/geodata/,International Country,22.719813447095103,39.066715899714
-India,http://data.gov.in/,International Country,79.5937037632538,22.925006407408503
-Indonesia,http://satupemerintah.net/,International Country,117.42340756227362,-2.221737936520536
-Ireland,http://www.statcentral.ie/,International Country,-8.010236544877012,53.18059120995006
-Italy,http://www.dati.gov.it/,International Country,12.140788372235896,42.751183052964244
-Japan,http://www.data.go.jp/,International Country,138.0649621327077,37.663110811704655
-Kenya,http://opendata.go.ke/,International Country,37.791555286661385,0.5959662521769503
-Mexico,http://datos.gob.mx/,International Country,-102.57634952398688,23.93537190224483
-Moldova,http://data.gov.md/,International Country,28.410482790803286,47.20367642606753
-Morocco,http://data.gov.ma/,International Country,-8.420479544549645,29.8853946983021
-Netherlands,http://data.overheid.nl/,International Country,5.512217100965401,52.2987003744418
-New Zealand,http://www.data.govt.nz/,International Country,172.70192594405577,-41.66257875715865
-Norway,http://data.norge.no/,International Country,15.468126122726229,69.1568563971328
-Oman,http://www.oman.om/opendata,International Country,56.09867281997544,20.611174374229567
-Peru,http://www.datosperu.org/,International Country,-74.39180581684721,-9.19156290513455
-Philippines,http://data.gov.ph/,International Country,122.90267236988693,11.76379936229766
-Portugal,http://www.dados.gov.pt/pt/inicio/inicio.aspx,International Country,-8.055765588295687,39.63404977497817
-Dem. Rep. Korea,http://www.data.go.kr/,International Country,127.16501676281213,40.143020860844565
-Romania,http://data.gov.ro/,International Country,24.943252494635395,45.85710103573802
-Russia,http://opengovdata.ru/,International Country,96.87522325596444,61.98084075071265
-Saudi Arabia,http://www.data.gov.sa/,International Country,44.516363768264746,24.123289839105293
-Sierra Leone,http://opendata.gov.sl/,International Country,-11.795257428559946,8.530353726153047
-Slovakia,http://data.gov.sk/,International Country,19.5076571474337,48.726711351727495
-South Africa,http://data.gov.za/,International Country,25.048013879861674,-28.94703325997912
-Spain,http://datos.gob.es/,International Country,-3.6170206023873734,40.348656106226734
-Sweden,http://xn--ppnadata-m4a.se/,International Country,16.59626584684802,62.81148496808033
-Tanzania,http://opendata.go.tz/,International Country,34.75298813146117,-6.257732720845605
-Timor-Leste,http://www.transparency.gov.tl/,International Country,125.96630027368401,-8.767760362467003
-Trinidad and Tobago,http://data.gov.tt/,International Country,-61.33036691444967,10.428237089201879
-Tunisia,http://www.data.gov.tn/,International Country,9.534716120695833,34.172939036882376
-Ukraine,http://data.gov.ua/,International Country,31.369533080356277,48.97301796820209
-United Arab Emirates,http://opendata.nbs.gov.ae/,International Country,54.20671476159633,23.86863365334761
-United Kingdom,http://data.gov.uk/,International Country,-2.8531353951805425,53.91477348053708
-Uruguay,http://datos.gub.uy/,International Country,-56.003278666548475,-32.780904365230825
-Amsterdam,http://www.os.amsterdam.nl/,International Regional,4.914694317400972,52.35191454666443
-Amsterdam,http://maps.amsterdam.nl/open_geodata/,International Regional,4.914694317400972,52.35191454666443
-Berlin,http://daten.berlin.de/,International Regional,13.399602764700546,52.523764522251156
-Buenos Aires,http://data.buenosaires.gob.ar/,International Regional,-58.399477232331435,-34.600555749907414
-Helsinki,http://www.hri.fi/en/about/open-data/,International Regional,24.93218048284558,60.17750923256807
-Lima,http://www.munlima.gob.pe/datos-abiertos-mml.html,International Regional,-77.05200795343472,-12.04606681752557
-London,http://www.london.ca/d.aspx?s=/Open_Data/Data_Catalogue.htm,International Regional,-0.11866770247593195,51.5019405883275
-London,http://www.guardian.co.uk/world-government-data/search?facet_source_title=data.london.gov.uk,International Regional,-0.11866770247593195,51.5019405883275
-Montevideo,http://www.montevideo.gub.uy/institucional/datos-abiertos/introduccion,International Regional,-56.17299814703597,-34.856095707590725
-Moscow,http://data.mos.ru/,International Regional,37.6135769672714,55.75410998124818
-Ottawa,http://www.guardian.co.uk/world-government-data/search?facet_source_title=ottawa.ca,International Regional,-75.70196115980951,45.41864265536043
-Paris,http://opendata.paris.fr/opendata/jsp/site/Portal.jsp,International Regional,2.33138946713035,48.86863878981461
-Rome,http://www.opendata.provincia.roma.it/,International Regional,12.481312562873995,41.89790148509894
-Seoul,http://data.seoul.go.kr/,International Regional,126.99778513820195,37.56829495838895
-Stockholm,http://open.stockholm.se/,International Regional,18.095388874180912,59.35270581286585
-Victoria,http://www.data.vic.gov.au/,International Regional,55.44998978559113,-4.6166316539734
-Vienna,http://data.wien.gv.at/,International Regional,16.364693096743736,48.20196113681686
-Singapore,http://data.gov.sg/,International Country,103.85387481909902,1.2949793251059418
-Bahrain,http://www.bahrain.bh/wps/portal/data/,International Country,50.5577,26.0667
-Hong Kong,http://www.gov.hk/en/theme/psi/datasets/,International Country,114.1694,22.3193
-Albuquerque,http://www.cabq.gov/abq-data/,US City or County,-106.6509851,35.0841034
-Ann Arbor,http://www.a2gov.org/data/,US City or County,-83.7312291,42.2681569
-Arvada,http://arvada.org/opendata/,US City or County,-105.22074299044587,39.8211225
-Asheville,http://data.ashevillenc.gov/,US City or County,-82.5540161,35.6009498
-Atlanta,http://gis.atlantaga.gov/,US City or County,-84.3901849,33.7490987
-Austin,http://data.austintexas.gov/,US City or County,-97.7436995,30.2711286
-Baltimore,http://data.baltimorecity.gov/,US City or County,-76.610759,39.2908816
-Belleville,https://data.illinois.gov/belleville,US City or County,6.0982683,48.8176714
-Boston,https://data.cityofboston.gov/,US City or County,-71.0582912,42.3602534
-Boston Enterprise GIS,http://www.cityofboston.gov/maps/,US City or County,,
-Burlington,https://data.burlingtonvt.gov/,US City or County,-73.2135472,44.4762975
-Champaign,https://data.illinois.gov/champaign,US City or County,-88.2433829,40.1164205
-Chicago,http://data.cityofchicago.org/,US City or County,-87.6244212,41.8755616
-Cook County,http://data.cookcountyil.gov/,US City or County,-87.756525,41.8197385
-Denver,http://data.denvergov.org/,US City or County,-104.9848623,39.7392364
-Gilpin County,http://data.opencolorado.org/group/gilpin-county,US City or County,-105.5025219,39.8586654
-Honolulu,https://data.honolulu.gov/,US City or County,-157.8556764,21.304547
-Houston,http://data.codeforhouston.com/,US City or County,-95.3676974,29.7589382
-Kansas City,https://data.kcmo.org/,US City or County,-94.5781416,39.100105
-King County,http://www.datakc.org/,US City or County,-100.2178972,33.588178
-Las Vegas,https://opendata.lasvegasnevada.gov/,US City or County,-115.1485163,36.1672559
-Lexington,http://www.lexingtonky.gov/index.aspx?page=416,US City or County,-84.4970393,38.0464066
-Los Angeles,https://controllerdata.lacity.org/browse,US City or County,-118.2427666,34.0536909
-Louisville,http://portal.louisvilleky.gov/service/data,US City or County,-85.759407,38.2542376
-Madison,https://data.cityofmadison.com/,US City or County,-89.3837613,43.074761
-Montgomery County,https://data.montgomerycountymd.gov/,US City or County,-95.5065944,30.301949
-NC OpenBook,http://www.ncopenbook.gov/NCOpenBook/,US City or County,,
-New Orleans,http://data.nola.gov/,US City or County,-90.0701156,29.9499323
-New York City,http://www.nyc.gov/data/,US City or County,-74.0060152,40.7127281
-Open Door Kentucky,http://opendoor.ky.gov/transparency/Pages/default.aspx,US City or County,-83.077221,37.134068
-Palo Alto,http://data.cityofpaloalto.org/,US City or County,-122.1598465,37.4443293
-Philadelphia,http://www.opendataphilly.org/,US City or County,-75.1635262,39.9527237
-Portland,http://civicapps.org/datasets/,US City or County,-122.6741949,45.5202471
-Providence,https://data.providenceri.gov/,US City or County,-71.4128343,41.8239891
-Raleigh,http://www.raleighnc.gov/open/,US City or County,-78.6390989,35.7803977
-Rockford,https://data.illinois.gov/rockford,US City or County,-89.093966,42.2713945
-San Francisco,http://www.datasf.org/,US City or County,-122.4199061,37.7790262
-San Mateo County,https://data.smcgov.org/,US City or County,-122.3330573,37.496904
-Santa Cruz,http://data.cityofsantacruz.com/,US City or County,20.7829122,50.7504894
-Scottsdale,http://data.scottsdaleaz.gov/,US City or County,-111.9260184,33.4942189
-Seattle,http://data.seattle.gov/,US City or County,-122.3300624,47.6038321
-Somerville,http://data.somervillema.gov/,US City or County,-71.0994968,42.3875968
-South Bend,https://data.southbendin.gov/,US City or County,-86.2500066,41.6833813
-Wake County,http://www.wakegov.com/data/Pages/default.aspx,US City or County,-78.6118311,35.7979355
-Weatherford,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County,-97.7970748,32.7589648
-Wellington,https://data.wellingtonfl.gov/,US City or County,174.7772114,-41.2887953
-"Bloomington, Indiana",https://data.bloomington.in.gov/,US City or County,-86.5342881,39.1670396
-Indianapolis/Marion County,http://data.indy.gov/,US City or County,-86.1583502,39.7683331
-Alabama,http://open.alabama.gov/,US State,-86.8295337,33.2588817
-Arizona,http://openbooks.az.gov/app/transparency/index.html,US State,-111.7632755,34.395342
-California,http://data.ca.gov/,US State,-118.7559974,36.7014631
-Colorado,http://www.colorado.gov/data/,US State,-105.6077167,38.7251776
-Connecticut,http://transparency.ct.gov/html/main.asp,US State,-72.7342163,41.6500201
-Delaware,http://www.delaware.gov/data/,US State,-75.4013315,38.6920451
-District of Columbia,http://data.dc.gov/,US State,-76.98788325388196,38.893661249999994
-Florida,http://www.floridahasarighttoknow.com/,US State,-81.4639835,27.7567667
-Georgia,http://www.open.georgia.gov/,US State,-83.1137366,32.3293809
-Hawaii,http://data.hawaii.gov/,US State,-155.42688965312746,19.58726775
-Illinois,http://data.illinois.gov/,US State,-89.4337288,40.0796606
-Indiana,http://www.stats.indiana.edu/,US State,-86.1746933,40.3270127
-Iowa,http://data.iowa.gov/,US State,-93.3122705,41.9216734
-Kansas,http://www.kansas.gov/KanView/,US State,-98.5821872,38.27312
-Kentucky,http://opendoor.ky.gov/search/Pages/spendingsearch.aspx,US State,-85.1551411,37.5726028
-Louisiana,http://wwwprd.doa.louisiana.gov/LaTrac/portal.cfm,US State,-92.007126,30.8703881
-Maine,http://www.maine.gov/data/,US State,-68.8590201,45.709097
-Maryland,https://data.maryland.gov/,US State,-76.9382069,39.5162234
-Massachusetts,https://wiki.state.ma.us/confluence/display/data/Open+Data+Initiative+Home,US State,-72.032366,42.3788774
-Michigan,http://www.michigan.gov/data/,US State,-84.6824346,43.6211955
-Minnesota,http://mn.gov/portal/,US State,-94.6113288,45.9896587
-Missouri,http://data.mo.gov/,US State,-92.5617875,38.7604815
-Montana,https://data.datamontana.us/browse,US State,-109.6387579,47.3752671
-Nebraska,http://www.nebraska.gov/data/,US State,-99.5873816,41.7370229
-New Hampshire,http://nhopengovt.org/,US State,-71.6553992,43.4849133
-New Mexico,http://www.sunshineportalnm.com/,US State,-105.993007,34.5708167
-New York,https://data.ny.gov/,US State,-74.0060152,40.7127281
-North Carolina,http://www.ncopenbook.gov/,US State,-79.0392919,35.6729639
-North Dakota GIS Hub,http://www.nd.gov/gis/,US State,,
-Ohio,http://transparency.ohio.gov/,US State,-82.6881395,40.2253569
-Oklahoma,http://www.ok.gov/about/data.html,US State,-97.2684063,34.9550817
-Oregon,http://data.oregon.gov/,US State,-120.737257,43.9792797
-Rhode Island,http://www.ri.gov/data/,US State,-71.5992372,41.7962409
-South Dakota,http://open.sd.gov/,US State,-100.348761,44.6471761
-Tennessee,http://www.tn.gov/opengov/,US State,-86.2820081,35.7730076
-Texas,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US State,-99.5120986,31.8160381
-Utah,http://www.utah.gov/data/,US State,-111.7143584,39.4225192
-Vermont,http://www.data.gov/open-gov/,US State,-72.5002608,44.5990718
-Virginia,http://data.virginia.gov,US State,-78.4927721,37.1232245
-Washington,http://data.wa.gov/,US State,-77.0365708,38.8949855
-Aarhus,http://www.odaa.dk/,International Regional,10.2134046,56.1496278
-Alberta,http://data.alberta.ca/,International Regional,-115.002136,55.001251
-Alkmaar,http://www.alkmaar.nl/opendata,International Regional,4.7503798,52.6312592
-Allerdale,http://datacatalogs.org/catalog/allerdale,International Regional,-3.252788011003595,54.70888095
-Angers,http://data.angers.fr/,International Regional,-0.5515588,47.4739884
-Antwerp,http://opendata.antwerpen.be/,International Regional,4.3997081,51.2211097
-Aquitaine and Gironde,http://datalocale.fr/,International Regional,-0.6051264440438711,44.883745950000005
-Aragon,http://opendata.aragon.es/,International Regional,-0.7639373,41.3787291
-Asturias,http://risp.asturias.es/catalogo/index.html,International Regional,-5.854145744587305,43.271087800000004
-Australian Capital Territory,https://www.data.act.gov.au/,International Regional,149.0026942,-35.4883502
-Badalona,http://badalona.cat/portalWeb/badalona.portal?_nfpb=true&_pageLabel=opendata,International Regional,2.248254,41.4493539
-Baden-W»rttemberg,http://opendata.service-bw.de/Seiten/default.aspx,International Regional,,
-Baha Blanca,http://bahiablanca.opendata.junar.com/home/,International Regional,,
-Balearic Islands,http://www.caib.es/caibdatafront/,International Regional,2.8804305326400756,39.6134018
-Barcelona,http://w20.bcn.cat/opendata/,International Regional,2.1774322,41.3828939
-Bari,http://opendata.comune.bari.it/,International Regional,16.8620293,41.1257843
-Birmingham,http://www.birmingham.gov.uk/open-data,International Regional,-1.9026911,52.4796992
-Bologna,http://dati.comune.bologna.it/,International Regional,11.3430347,44.4936714
-Brazilian Federal Senate,http://dadosabertos.senado.gov.br/,International Regional,,
-Bremen,http://www.daten.bremen.de/,International Regional,8.8071646,53.0758196
-Brisbane,http://data.brisbane.qld.gov.au/index.php/datasets/,International Regional,153.0234991,-27.4689682
-British Columbia,http://www.data.gov.bc.ca/,International Regional,-125.002441,55.001251
-British Columbia Local Government,http://www.civicinfo.bc.ca/,International Regional,-123.36847619876357,48.4178785
-Castilla-La Mancha,http://opendata.jccm.es/,International Regional,-2.6232332,39.4177902
-Catalonya,http://dadesobertes.gencat.cat/,International Regional,,
-Chamber of Deputies,http://dati.camera.it/it/,International Regional,12.4787076,41.9017297
-County of Grand Prairie No. 1,http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html,International Regional,,
-CSIRO,https://data.csiro.au/dap/home?execution=e1s1,International Regional,151.72797298254113,-32.8838341
-Dailan,http://zwgk.dl.gov.cn/default.jse,International Regional,-42.3547457,-21.1288679
-Data.gov State Data Sites,http://www.data.gov/statedatasites,International Regional,,
-Denver Regional Council,http://data.opencolorado.org/group/drcog,Other State Related,17.0779517,-22.5478377
-District of North Vancouver,http://geoweb.dnv.org/data/,International Regional,-123.0780208,49.33612
-Edmonton,http://data.edmonton.ca/,International Regional,-113.507996,53.535411
-Emilia-Romagna Open Data,http://dati.emilia-romagna.it/,International Regional,11.344409,44.4919861
-Enschede,http://opendata.enschede.nl/,International Regional,6.870595664097989,52.22336325
-Environmental Portal,http://www.portalu.de/portal/default-page.psml,International Regional,19.6056201,30.4056319
-European Union,http://open-data.europa.eu/,International Regional,23.3216264,42.6788082
-Euskadi (Basque Country),http://opendata.euskadi.net/,International Regional,-1.9772285,43.3215352
-Fingal,http://data.fingal.ie/,International Regional,-6.22498020932367,53.494221249999995
-Florence,http://dati.comune.firenze.it/,International Regional,11.2555757,43.7698712
-Fredericton,http://www.fredericton.ca/en/citygovernment/DataMain.asp,International Regional,-66.645813,45.966425
-Galicia,http://abertos.xunta.es/portada/,International Regional,-7.863112,42.61946
-Graz,http://data.graz.gv.at/,International Regional,15.4382786,47.0708678
-Great Manchester,http://www.datagm.org.uk/,International Regional,-3.0549141869788157,53.80672975
-Guelph,http://guelph.ca/services.cfm?itemid=78870&smocid=1550,International Regional,-80.2493276,43.5460516
-Halifax,https://www.halifaxopendata.ca/,International Regional,-63.5859487,44.648618
-Hamburg,http://daten.hamburg.de/,International Regional,10.0099133,53.5437641
-Hamilton,http://www.hamilton.ca/ProjectsInitiatives/OpenData/,International Regional,-79.8728583,43.2560802
-Hauts-de-Seine,http://opendata.hauts-de-seine.net/,International Regional,2.198641221906077,48.840185899999994
-Hawaii GIS,http://gis.hicentral.com/,Other State Related,,
-Illinois South Suburban Mayors and Managers,https://data.illinois.gov/ssmma,Other State Related,,
-Italian Parliament,http://dati.camera.it/it/,International Regional,-7.254486647889623,52.654690099999996
-Italy Senate,http://dati.senato.it/,International Regional,12.4748472,41.8991328
-Junta de Castilla y LeÜn,http://www.datosabiertos.jcyl.es/,International Regional,,
-Jyv_skyl_,http://data.jyvaskyla.fi/,International Regional,,
-Kent,http://www.kent.gov.uk/your_council/open_data.aspx,International Regional,0.7105077,51.2474823
-La Rochelle,http://www.opendata.larochelle.fr/,International Regional,-1.1520434,46.1591126
-Langley,http://www.tol.ca/Services-Contact/Open-Data/Open-Data-Catalogue,International Regional,6.3258262,48.3604648
-Le Mans,http://www.lemans.fr/page.do?t=2&uuid=16CB26C7-550EA533-5AE8381B-D7A64AF8,International Regional,0.1967379,48.0073498
-Leipzig,http://www.apileipzig.de/,International Regional,12.3747329,51.3406321
-Library of the National Congress,http://datos.bcn.cl/es/,International Regional,32.542943466517144,15.68260995
-Lichfield,http://lichfielddc.gov.uk/,International Regional,-1.8275286,52.6843696
-Linz,http://data.linz.gv.at/,International Regional,14.286198,48.3059078
-Lleida,http://cartolleida.paeria.es/lleidaoberta/inici.aspx,International Regional,0.6267842,41.6147605
-Loire-Atlantique,http://data.loire-atlantique.fr/,International Regional,-1.8727461214619257,47.34816145
-Lombardy,https://dati.lombardia.it/,International Regional,9.768893,45.6209
-Lucca,http://opendata.provincia.lucca.it/,International Regional,10.453151842727024,44.0176138
-Manchester,http://www.manchester.gov.uk/info/500215/open_data,International Regional,-2.2451148,53.4794892
-Medicine Hat,http://data.medicinehat.ca/,International Regional,-110.679016,50.04303
-Merton Council,http://www.merton.gov.uk/council/dp-foi/opendata.htm,International Regional,147.2639242,-42.8486868
-METI,http://datameti.go.jp/,International Regional,139.7509058483356,35.672176
-Milan,http://dati.comune.milano.it/,International Regional,9.1905,45.4668
-Ministry of Finances,http://www1.minfin.ru/ru/,International Regional,33.6394006,-25.039692
-"Misiones Province, Argentina",http://www.datos.misiones.gov.ar/,International Regional,-62.26398514408946,-38.7412777
-Mississauga,http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue,International Regional,-79.645729,43.590338
-Missouri Accountability Portal,http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State Related,,
-Moers,http://www.offenedaten.moers.de/,International Regional,6.62843,51.451283
-Montpellier,http://opendata.montpelliernumerique.fr/,International Regional,3.8767337,43.6112422
-Montreal,http://donnees.ville.montreal.qc.ca/,International Regional,-73.6103642,45.4972159
-Mosman Council,http://data.mosman.nsw.gov.au/,International Regional,151.24135472582435,-33.8252237
-Nanaimo,http://www.nanaimo.ca/datafeeds,International Regional,-123.9379719,49.1637594
-Nantes,http://data.nantes.fr/,International Regional,-1.5541362,47.2186371
-Navarre,http://www.navarra.es/home_es/Open-Data/,International Regional,-1.830787682991546,42.61254875
-New South Wales,http://data.nsw.gov.au/,International Regional,147.2869493,-31.8759835
-New York State Data Center,http://esd.ny.gov/NYSDataCenter.html,Other State Related,,
-Niagara Falls,http://www.niagarafalls.ca/services/open/data,International Regional,-79.0614686,43.08436
-Niagara Region,http://www.niagararegion.ca/government/opendata/default.aspx,International Regional,-79.3098089,43.0631891
-Nieder_sterreich,http://www.ncopenbook.gov/NCOpenBook/,International Regional,,
-North Devon Council,http://www.northdevon.gov.uk/index/lgcl_council_government_and_democracy/nonlgcl_open_data.htm,International Regional,-4.0591466,51.0802659
-North Okanagan,http://www.rdno.ca/index.php/maps/digital-data,International Regional,-118.7147708,50.4164846
-Novo Hamburgo,https://dados.novohamburgo.rs.gov.br//,International Regional,-51.1429035,-29.6905705
-NY Department of Health,https://health.data.ny.gov/,Other State Related,,
-NY State Senate,http://www.nysenate.gov/opendata/,Other State Related,-74.01864789602732,41.934768500000004
-Ontario,http://www.ontario.ca/government/government-ontario-open-data,International Regional,-86.000977,50.000678
-Open Government,http://opendata.bigovernment.ru/results/,International Regional,80.01025828002543,9.6648966
-Open Kent,http://www.openkent.org.uk/,International Regional,0.34548080676546467,51.42246455
-Open UN-Habitat Transparency Initiative,http://open.unhabitat.org/,International Regional,,
-OpenAid.se,http://openaid.se/,International Regional,,
-Organization for Economic Cooperation and Development (OECD),http://stats.oecd.org/,International Regional,,
-Pamplona,http://pamplona.es/verPagina.asp?IdPag=1519&Idioma=1,International Regional,-1.6442556,42.8184538
-Piedmont,http://www.dati.piemonte.it/,International Regional,-122.231635,37.8243715
-Prince George,http://princegeorge.ca/cityservices/online/odc/Pages/Documents.aspx,International Regional,-77.2153144,37.1815024
-Puglia,http://www.dati.puglia.it/,International Regional,16.6210027,40.9842539
-Qu_bec (City),http://donnees.ville.quebec.qc.ca/,International Regional,-71.2352226,46.8259601
-Qu_bec (Province),http://data.gouv.qc.ca/?node=/accueil,International Regional,-3.8111778,43.4620332
-Queensland,https://data.qld.gov.au/,International Regional,144.5844903,-22.1646782
-Red Deer,http://www.reddeer.ca/City+Government/City+Services+and+Departments/Information+Technology+Services/Open+Data/About.htm,International Regional,-113.818359,52.269838
-Redbridge,http://data.redbridge.gov.uk/,International Regional,0.0454097,51.5763203
-Regina,http://openregina.cloudapp.net/,International Regional,-104.61731,50.44876
-Region of Peel,http://opendata.peelregion.ca/,International Regional,-79.7090023,43.6474732
-Rennes,http://www.data.rennes-metropole.fr/,International Regional,-1.6800198,48.1113387
-Research Data,http://researchdata.ands.org.au/,International Regional,-0.7589859945781529,52.05426815
-Rheinland Pfalz,http://www.daten.rlp.de/,International Regional,7.310646,49.9531599
-Rostock,http://datacatalogs.org/catalog/rostock,International Regional,12.1286127,54.0924445
-Rotterdam,http://rotterdamopendata.nl,International Regional,4.4631727,51.9228958
-Russian Open Budget,http://budget.gov.ru/data/opendata,International Regional,,
-Russian Open Police,http://data.openpolice.ru/,International Regional,-122.22933842309706,37.321450350000006
-Saanich,http://www.saanich.ca/data/catalogue/index.php,International Regional,-123.3764946,48.4594315
-Salford City Council,http://www.salford.gov.uk/opendata.htm,International Regional,-2.2718561,53.4851727
-Sao Paulo,http://www.governoaberto.sp.gov.br/view/,International Regional,-46.6333824,-23.5506507
-SaŽne-et-Loire,http://www.opendata71.fr/,International Regional,,
-Sardinia,http://www.sardegnageoportale.it/index.html,International Regional,9.097753806553065,40.06160405
-Saskatoon,http://www.saskatoon.ca/DEPARTMENTS/Corporate%20Services/Corporate%20Information%20Services/OpenData/Pages/OpenData.aspx,International Regional,-106.660767,52.131802
-Shizuoka Prefecture(Shizuoka),http://open-data.pref.shizuoka.jp/htdocs/,International Regional,138.38299,34.979149
-South Australia,http://data.sa.gov.au,International Regional,135.6301212,-30.5343665
-South Australia Spatial Planning,http://www.planning.sa.gov.au/index.cfm?objectid=1C5C4F6F-96B8-CC2B-67DE3073BF2AE0EC,International Regional,,
-Surrey,http://www.surrey.ca/city-services/658.aspx,International Regional,-0.3414523511290909,51.2715316
-Sutton,https://www.sutton.gov.uk/index.aspx?articleid=15338,International Regional,-100.6432359,30.5672947
-Tampere,http://tampere.fi/avoindata,International Regional,23.7603118,61.4980214
-Tasmania _ Spatial Data Work,http://www.dpipwe.tas.gov.au/sif,International Regional,,
-Terrassa,http://opendata.terrassa.cat/,International Regional,2.0102442,41.5629885
-Texas Transparency,http://www.texastransparency.org/opendata/index.php,Other State Related,,
-Toronto,http://www.toronto.ca/open,International Regional,-79.3839347,43.6534817
-Toulouse,http://data.grandtoulouse.fr/,International Regional,1.4442469,43.6044622
-Trafford Council,http://www.trafford.gov.uk/opendata/,International Regional,-2.3388814,53.4039235
-Trentino,http://dati.trentino.it/,International Regional,11.129543099871789,46.102817
-Trento,http://www.territorio.provincia.tn.it/portal/server.pt?open=512&objID=862&PageID=32157&mode=2&in_hi_userid=18720&cached=true,International Regional,11.1257601,46.0664228
-Turin,http://www.comune.torino.it/aperto,International Regional,7.6824892,45.0677551
-Tuscany,http://dati.toscana.it/,International Regional,11.1389204,43.4586541
-Tyrol,http://www.tirol.gv.at/applikationen/e-government/data/,International Regional,11.5261028,47.223193
-Udine,http://www.comune.udine.it/opencms/opencms/release/ComuneUdine/comune/Bilanci_comunali/open_data,International Regional,13.2358377,46.0634632
-United Nations,http://data.un.org/,International Regional,120.98461447238084,14.5825457
-Vancouver,http://data.vancouver.ca/,International Regional,-123.1139529,49.2608724
-Veneto,http://dati.veneto.it/,International Regional,11.8665254,45.6476663
-Venice,http://dati.venezia.it/,International Regional,12.3345898,45.4371908
-Vicenza Geodata,http://www.comune.vicenza.it/uffici/dipgenpers/sistinf/sit/daticartografici.php,International Regional,,
-Vorarlberg,http://data.vorarlberg.gv.at/,International Regional,9.9166667,47.25
-Warwickshire,http://www.guardian.co.uk/world-government-data/search?facet_source_title=opendata.warwickshire.gov.uk,International Regional,-1.5467857874161073,52.32130635
-Waterloo,http://opendata.waterloo.ca/,International Regional,-92.3329637,42.4979693
-Western Australia _ NewSLIP,https://www2.landgate.wa.gov.au/web/guest/slipstream-e-news,International Regional,,
-Windsor,http://www.citywindsor.ca/opendata/pages/open-data-catalogue.aspx,International Regional,-0.6041397427111339,51.48379805
-World Bank,http://data.worldbank.org/,International Regional,80.24437259453944,12.9838992
-Wyre Council,http://www.wyre.gov.uk/opendata,International Regional,-3.0119337,53.874906
-Zaragoza,http://www.zaragoza.es/ciudad/risp/,International Regional,-0.8809428,41.6521342
-Zurich,http://data.stadt-zuerich.ch/content/portal/de/index/ogd/daten.html,International Regional,8.5423328,47.3723941
+name,Link,Type,x,y,
+Argentina,http://datos.argentina.gob.ar/,International Country,-65.17536077,-35.44682149,
+Australia,http://data.gov.au/,International Country,134.5027755,-25.73065478,
+Austria,http://data.gv.at/,International Country,14.07615888,47.61394879,
+Belgium,http://data.gov.be/,International Country,4.580831591,50.65244261,
+Brazil,http://dados.gov.br/,International Country,-53.05434004,-10.80677364,
+Canada,http://open.canada.ca/en,International Country,-98.14238137,61.46907615,
+Chile,http://datos.gob.cl/,International Country,-71.52064395,-39.04701431,
+China,http://govinfo.nlc.gov.cn/,International Country,103.8836163,36.55506854,
+Colombia,www.datos.gov.co,International Country,-73.07773209,3.927213863,
+Costa Rica,http://datosabiertos.gob.go.cr,International Country,-84.1754231,9.965671127,
+Denmark,http://digitaliser.dk/,International Country,9.876372938,56.06393446,
+Estonia,http://pub.stat.ee/px-web.2001/Dialog/statfile1.asp,International Country,25.82472838,58.64369524,
+Finland,http://www.suomi.fi/suomifi/tyohuone/yhteiset_palvelut/avoin_data/,International Country,26.2117647,64.50409392,
+France,http://data.gouv.fr/,International Country,-2.880599191,42.4577181,
+Germany,https://www.govdata.de/,International Country,10.28848509,51.13372269,
+Ghana,http://data.gov.gh,International Country,-1.236968556,7.928651813,
+Greece,http://geodata.gov.gr/geodata/,International Country,22.71981345,39.0667159,
+India,http://data.gov.in/,International Country,79.59370376,22.92500641,
+Indonesia,http://satupemerintah.net/,International Country,117.4234076,-2.221737937,
+Ireland,http://www.statcentral.ie/,International Country,-8.010236545,53.18059121,
+Italy,http://www.dati.gov.it/,International Country,12.14078837,42.75118305,
+Japan,http://www.data.go.jp/,International Country,138.0649621,37.66311081,
+Kenya,http://opendata.go.ke/,International Country,37.79155529,0.595966252,
+Mexico,http://datos.gob.mx/,International Country,-102.5763495,23.9353719,
+Moldova,http://data.gov.md/,International Country,28.41048279,47.20367643,
+Morocco,http://data.gov.ma/,International Country,-8.420479545,29.8853947,
+Netherlands,http://data.overheid.nl/,International Country,5.512217101,52.29870037,
+New Zealand,http://www.data.govt.nz/,International Country,172.7019259,-41.66257876,
+Norway,http://data.norge.no/,International Country,15.46812612,69.1568564,
+Oman,http://www.oman.om/opendata,International Country,56.09867282,20.61117437,
+Peru,http://www.datosperu.org/,International Country,-74.39180582,-9.191562905,
+Philippines,http://data.gov.ph/,International Country,122.9026724,11.76379936,
+Portugal,http://www.dados.gov.pt/pt/inicio/inicio.aspx,International Country,-8.055765588,39.63404977,
+Dem. Rep. Korea,http://www.data.go.kr/,International Country,127.1650168,40.14302086,
+Romania,http://data.gov.ro/,International Country,24.94325249,45.85710104,
+Russia,http://opengovdata.ru/,International Country,96.87522326,61.98084075,
+Saudi Arabia,http://www.data.gov.sa/,International Country,44.51636377,24.12328984,
+Sierra Leone,http://opendata.gov.sl/,International Country,-11.79525743,8.530353726,
+Slovakia,http://data.gov.sk/,International Country,19.50765715,48.72671135,
+South Africa,http://data.gov.za/,International Country,25.04801388,-28.94703326,
+Spain,http://datos.gob.es/,International Country,-3.617020602,40.34865611,
+Sweden,http://xn--ppnadata-m4a.se/,International Country,16.59626585,62.81148497,
+Tanzania,http://opendata.go.tz/,International Country,34.75298813,-6.257732721,
+Timor-Leste,http://www.transparency.gov.tl/,International Country,125.9663003,-8.767760362,
+Trinidad and Tobago,http://data.gov.tt/,International Country,-61.33036691,10.42823709,
+Tunisia,http://www.data.gov.tn/,International Country,9.534716121,34.17293904,
+Ukraine,http://data.gov.ua/,International Country,31.36953308,48.97301797,
+United Arab Emirates,http://opendata.nbs.gov.ae/,International Country,54.20671476,23.86863365,
+United Kingdom,http://data.gov.uk/,International Country,-2.853135395,53.91477348,
+Uruguay,http://datos.gub.uy/,International Country,-56.00327867,-32.78090437,
+Amsterdam,http://www.os.amsterdam.nl/,International Regional,4.914694317,52.35191455,
+Amsterdam,http://maps.amsterdam.nl/open_geodata/,International Regional,4.914694317,52.35191455,
+Berlin,http://daten.berlin.de/,International Regional,13.39960276,52.52376452,
+Buenos Aires,http://data.buenosaires.gob.ar/,International Regional,-58.39947723,-34.60055575,
+Helsinki,http://www.hri.fi/en/about/open-data/,International Regional,24.93218048,60.17750923,
+Lima,http://www.munlima.gob.pe/datos-abiertos-mml.html,International Regional,-77.05200795,-12.04606682,
+London,http://www.london.ca/d.aspx?s=/Open_Data/Data_Catalogue.htm,International Regional,-0.118667702,51.50194059,
+London,http://www.guardian.co.uk/world-government-data/search?facet_source_title=data.london.gov.uk,International Regional,-0.118667702,51.50194059,
+Montevideo,http://www.montevideo.gub.uy/institucional/datos-abiertos/introduccion,International Regional,-56.17299815,-34.85609571,
+Moscow,http://data.mos.ru/,International Regional,37.61357697,55.75410998,
+Ottawa,http://www.guardian.co.uk/world-government-data/search?facet_source_title=ottawa.ca,International Regional,-75.70196116,45.41864266,
+Paris,http://opendata.paris.fr/opendata/jsp/site/Portal.jsp,International Regional,2.331389467,48.86863879,
+Rome,http://www.opendata.provincia.roma.it/,International Regional,12.48131256,41.89790149,
+Seoul,http://data.seoul.go.kr/,International Regional,126.9977851,37.56829496,
+Stockholm,http://open.stockholm.se/,International Regional,18.09538887,59.35270581,
+Victoria,http://www.data.vic.gov.au/,International Regional,55.44998979,-4.616631654,
+Vienna,http://data.wien.gv.at/,International Regional,16.3646931,48.20196114,
+Singapore,http://data.gov.sg/,International Country,103.8538748,1.294979325,
+Bahrain,http://www.bahrain.bh/wps/portal/data/,International Country,50.5577,26.0667,
+Hong Kong,http://www.gov.hk/en/theme/psi/datasets/,International Country,114.1694,22.3193,
+Albuquerque,http://www.cabq.gov/abq-data/,US City or County,-106.6509851,35.0841034,
+Ann Arbor,http://www.a2gov.org/data/,US City or County,-83.7312291,42.2681569,
+Arvada,http://arvada.org/opendata/,US City or County,-105.220743,39.8211225,
+Asheville,http://data.ashevillenc.gov/,US City or County,-82.5540161,35.6009498,
+Atlanta,http://gis.atlantaga.gov/,US City or County,-84.3901849,33.7490987,
+Austin,http://data.austintexas.gov/,US City or County,-97.7436995,30.2711286,
+Baltimore,http://data.baltimorecity.gov/,US City or County,-76.610759,39.2908816,
+Belleville,https://data.illinois.gov/belleville,US City or County,6.0982683,48.8176714,
+Boston,https://data.cityofboston.gov/,US City or County,-71.0582912,42.3602534,
+Boston Enterprise GIS,http://www.cityofboston.gov/maps/,US City or County,-71.0582,42.36025,
+Burlington,https://data.burlingtonvt.gov/,US City or County,-73.2135472,44.4762975,
+Champaign,https://data.illinois.gov/champaign,US City or County,-88.2433829,40.1164205,
+Chicago,http://data.cityofchicago.org/,US City or County,-87.6244212,41.8755616,
+Cook County (IL),http://data.cookcountyil.gov/,US City or County,-87.756525,41.8197385,
+Denver,http://data.denvergov.org/,US City or County,-104.9848623,39.7392364,
+Gilpin County,http://data.opencolorado.org/group/gilpin-county,US City or County,-105.5025219,39.8586654,
+Honolulu,https://data.honolulu.gov/,US City or County,-157.8556764,21.304547,
+Houston,http://data.codeforhouston.com/,US City or County,-95.3676974,29.7589382,
+Kansas City,https://data.kcmo.org/,US City or County,-94.5781416,39.100105,
+King County,http://www.datakc.org/,US City or County,-100.2178972,33.588178,
+Las Vegas,https://opendata.lasvegasnevada.gov/,US City or County,-115.1485163,36.1672559,
+Lexington,http://www.lexingtonky.gov/index.aspx?page=416,US City or County,-84.4970393,38.0464066,
+Los Angeles,https://controllerdata.lacity.org/browse,US City or County,-118.2427666,34.0536909,
+Louisville,http://portal.louisvilleky.gov/service/data,US City or County,-85.759407,38.2542376,
+Madison,https://data.cityofmadison.com/,US City or County,-89.3837613,43.074761,
+Montgomery County,https://data.montgomerycountymd.gov/,US City or County,-95.5065944,30.301949,
+NC OpenBook,http://www.ncopenbook.gov/NCOpenBook/,US City or County,,,
+New Orleans,http://data.nola.gov/,US City or County,-90.0701156,29.9499323,
+New York City,http://www.nyc.gov/data/,US City or County,-74.0060152,40.7127281,
+Open Door Kentucky,http://opendoor.ky.gov/transparency/Pages/default.aspx,US City or County,-83.077221,37.134068,
+Palo Alto,http://data.cityofpaloalto.org/,US City or County,-122.1598465,37.4443293,
+Philadelphia,http://www.opendataphilly.org/,US City or County,-75.1635262,39.9527237,
+Portland,http://civicapps.org/datasets/,US City or County,-122.6741949,45.5202471,
+Providence,https://data.providenceri.gov/,US City or County,-71.4128343,41.8239891,
+Raleigh,http://www.raleighnc.gov/open/,US City or County,-78.6390989,35.7803977,
+Rockford,https://data.illinois.gov/rockford,US City or County,-89.093966,42.2713945,
+San Francisco,http://www.datasf.org/,US City or County,-122.4199061,37.7790262,
+San Mateo County,https://data.smcgov.org/,US City or County,-122.3330573,37.496904,
+Santa Cruz,http://data.cityofsantacruz.com/,US City or County,20.7829122,50.7504894,
+Scottsdale,http://data.scottsdaleaz.gov/,US City or County,-111.9260184,33.4942189,
+Seattle,http://data.seattle.gov/,US City or County,-122.3300624,47.6038321,
+Somerville,http://data.somervillema.gov/,US City or County,-71.0994968,42.3875968,
+South Bend,https://data.southbendin.gov/,US City or County,-86.2500066,41.6833813,
+Wake County,http://www.wakegov.com/data/Pages/default.aspx,US City or County,-78.6118311,35.7979355,
+Weatherford,http://tx-weatherford2.civicplus.com/index.aspx?NID=1448,US City or County,-97.7970748,32.7589648,
+Wellington,https://data.wellingtonfl.gov/,US City or County,174.7772114,-41.2887953,
+"Bloomington, Indiana",https://data.bloomington.in.gov/,US City or County,-86.5342881,39.1670396,
+Indianapolis/Marion County,http://data.indy.gov/,US City or County,-86.1583502,39.7683331,
+Alabama,http://open.alabama.gov/,US State,-86.8295337,33.2588817,
+Arizona,http://openbooks.az.gov/app/transparency/index.html,US State,-111.7632755,34.395342,
+California,http://data.ca.gov/,US State,-118.7559974,36.7014631,
+Colorado,http://www.colorado.gov/data/,US State,-105.6077167,38.7251776,
+Connecticut,http://transparency.ct.gov/html/main.asp,US State,-72.7342163,41.6500201,
+Delaware,http://www.delaware.gov/data/,US State,-75.4013315,38.6920451,
+District of Columbia,http://data.dc.gov/,US State,-76.98788325,38.89366125,
+Florida,http://www.floridahasarighttoknow.com/,US State,-81.4639835,27.7567667,
+Georgia,http://www.open.georgia.gov/,US State,-83.1137366,32.3293809,
+Hawaii,http://data.hawaii.gov/,US State,-155.4268897,19.58726775,
+Illinois,http://data.illinois.gov/,US State,-89.4337288,40.0796606,
+Indiana,http://www.stats.indiana.edu/,US State,-86.1746933,40.3270127,
+Iowa,http://data.iowa.gov/,US State,-93.3122705,41.9216734,
+Kansas,http://www.kansas.gov/KanView/,US State,-98.5821872,38.27312,
+Kentucky,http://opendoor.ky.gov/search/Pages/spendingsearch.aspx,US State,-85.1551411,37.5726028,
+Louisiana,http://wwwprd.doa.louisiana.gov/LaTrac/portal.cfm,US State,-92.007126,30.8703881,
+Maine,http://www.maine.gov/data/,US State,-68.8590201,45.709097,
+Maryland,https://data.maryland.gov/,US State,-76.9382069,39.5162234,
+Massachusetts,https://wiki.state.ma.us/confluence/display/data/Open+Data+Initiative+Home,US State,-72.032366,42.3788774,
+Michigan,http://www.michigan.gov/data/,US State,-84.6824346,43.6211955,
+Minnesota,http://mn.gov/portal/,US State,-94.6113288,45.9896587,
+Missouri,http://data.mo.gov/,US State,-92.5617875,38.7604815,
+Montana,https://data.datamontana.us/browse,US State,-109.6387579,47.3752671,
+Nebraska,http://www.nebraska.gov/data/,US State,-99.5873816,41.7370229,
+New Hampshire,http://nhopengovt.org/,US State,-71.6553992,43.4849133,
+New Mexico,http://www.sunshineportalnm.com/,US State,-105.993007,34.5708167,
+New York,https://data.ny.gov/,US State,-74.0060152,40.7127281,
+North Carolina,http://www.ncopenbook.gov/,US State,-79.0392919,35.6729639,
+North Dakota GIS Hub,http://www.nd.gov/gis/,US State,,,
+Ohio,http://transparency.ohio.gov/,US State,-82.6881395,40.2253569,
+Oklahoma,http://www.ok.gov/about/data.html,US State,-97.2684063,34.9550817,
+Oregon,http://data.oregon.gov/,US State,-120.737257,43.9792797,
+Rhode Island,http://www.ri.gov/data/,US State,-71.5992372,41.7962409,
+South Dakota,http://open.sd.gov/,US State,-100.348761,44.6471761,
+Tennessee,http://www.tn.gov/opengov/,US State,-86.2820081,35.7730076,
+Texas,http://www.texas.gov/en/Connect/Pages/open-data.aspx,US State,-99.5120986,31.8160381,
+Utah,http://www.utah.gov/data/,US State,-111.7143584,39.4225192,
+Vermont,http://www.data.gov/open-gov/,US State,-72.5002608,44.5990718,
+Virginia,http://data.virginia.gov,US State,-78.4927721,37.1232245,
+Washington,http://data.wa.gov/,US State,-77.0365708,38.8949855,
+Aarhus,http://www.odaa.dk/,International Regional,10.2134046,56.1496278,
+Alberta,http://data.alberta.ca/,International Regional,-115.002136,55.001251,
+Alkmaar,http://www.alkmaar.nl/opendata,International Regional,4.7503798,52.6312592,
+Allerdale,http://datacatalogs.org/catalog/allerdale,International Regional,-3.252788011,54.70888095,
+Angers,http://data.angers.fr/,International Regional,-0.5515588,47.4739884,
+Antwerp,http://opendata.antwerpen.be/,International Regional,4.3997081,51.2211097,
+Aquitaine and Gironde,http://datalocale.fr/,International Regional,-0.605126444,44.88374595,
+Aragon,http://opendata.aragon.es/,International Regional,-0.7639373,41.3787291,
+Asturias,http://risp.asturias.es/catalogo/index.html,International Regional,-5.854145745,43.2710878,
+Australian Capital Territory,https://www.data.act.gov.au/,International Regional,149.0026942,-35.4883502,
+Badalona,http://badalona.cat/portalWeb/badalona.portal?_nfpb=true&_pageLabel=opendata,International Regional,2.248254,41.4493539,
+Baden-W»rttemberg,http://opendata.service-bw.de/Seiten/default.aspx,International Regional,,,
+Baha Blanca,http://bahiablanca.opendata.junar.com/home/,International Regional,,,
+Balearic Islands,http://www.caib.es/caibdatafront/,International Regional,2.880430533,39.6134018,
+Barcelona,http://w20.bcn.cat/opendata/,International Regional,2.1774322,41.3828939,
+Bari,http://opendata.comune.bari.it/,International Regional,16.8620293,41.1257843,
+Birmingham,http://www.birmingham.gov.uk/open-data,International Regional,-1.9026911,52.4796992,
+Bologna,http://dati.comune.bologna.it/,International Regional,11.3430347,44.4936714,
+Brazilian Federal Senate,http://dadosabertos.senado.gov.br/,International Regional,-15.809917,-47.756371,
+Bremen,http://www.daten.bremen.de/,International Regional,8.8071646,53.0758196,
+Brisbane,http://data.brisbane.qld.gov.au/index.php/datasets/,International Regional,153.0234991,-27.4689682,
+British Columbia,http://www.data.gov.bc.ca/,International Regional,-125.002441,55.001251,
+British Columbia Local Government,http://www.civicinfo.bc.ca/,International Regional,-123.3684762,48.4178785,
+Castilla-La Mancha,http://opendata.jccm.es/,International Regional,-2.6232332,39.4177902,
+Catalonya,http://dadesobertes.gencat.cat/,International Regional,41.847762,1.473112,
+Chamber of Deputies,http://dati.camera.it/it/,International Regional,12.4787076,41.9017297,
+County of Grand Prairie No. 1,http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html,International Regional,-118.811695,55.174811,
+CSIRO,https://data.csiro.au/dap/home?execution=e1s1,International Regional,151.727973,-32.8838341,
+Dailan,http://zwgk.dl.gov.cn/default.jse,International Regional,-42.3547457,-21.1288679,
+Denver Regional Council,http://data.opencolorado.org/group/drcog,Other State Related,-104.918321,39.736254,
+District of North Vancouver,http://geoweb.dnv.org/data/,International Regional,-123.0780208,49.33612,
+Edmonton,http://data.edmonton.ca/,International Regional,-113.507996,53.535411,
+Emilia-Romagna Open Data,http://dati.emilia-romagna.it/,International Regional,11.344409,44.4919861,
+Enschede,http://opendata.enschede.nl/,International Regional,6.870595664,52.22336325,
+Environmental Portal,http://www.portalu.de/portal/default-page.psml,International Regional,19.6056201,30.4056319,
+European Union,http://open-data.europa.eu/,International Regional,23.3216264,42.6788082,
+Euskadi (Basque Country),http://opendata.euskadi.net/,International Regional,-1.9772285,43.3215352,
+Fingal,http://data.fingal.ie/,International Regional,-6.224980209,53.49422125,
+Florence,http://dati.comune.firenze.it/,International Regional,11.2555757,43.7698712,
+Fredericton,http://www.fredericton.ca/en/citygovernment/DataMain.asp,International Regional,-66.645813,45.966425,
+Galicia,http://abertos.xunta.es/portada/,International Regional,-7.863112,42.61946,
+Graz,http://data.graz.gv.at/,International Regional,15.4382786,47.0708678,
+Great Manchester,http://www.datagm.org.uk/,International Regional,-3.054914187,53.80672975,
+Guelph,http://guelph.ca/services.cfm?itemid=78870&smocid=1550,International Regional,-80.2493276,43.5460516,
+Halifax,https://www.halifaxopendata.ca/,International Regional,-63.5859487,44.648618,
+Hamburg,http://daten.hamburg.de/,International Regional,10.0099133,53.5437641,
+Hamilton,http://www.hamilton.ca/ProjectsInitiatives/OpenData/,International Regional,-79.8728583,43.2560802,
+Hauts-de-Seine,http://opendata.hauts-de-seine.net/,International Regional,2.198641222,48.8401859,
+Hawaii GIS,http://gis.hicentral.com/,Other State Related,-155.4268897,19.58726775,
+Illinois South Suburban Mayors and Managers,https://data.illinois.gov/ssmma,Other State Related,-88.627404,37.965953,
+Italian Parliament,http://dati.camera.it/it/,International Regional,-7.254486648,52.6546901,
+Italy Senate,http://dati.senato.it/,International Regional,12.4748472,41.8991328,
+Junta de Castilla y LeÜn,http://www.datosabiertos.jcyl.es/,International Regional,-5.490922,42.596622,
+Jyv_skyl_,http://data.jyvaskyla.fi/,International Regional,25.781818,62.233012,
+Kent,http://www.kent.gov.uk/your_council/open_data.aspx,International Regional,0.7105077,51.2474823,
+La Rochelle,http://www.opendata.larochelle.fr/,International Regional,-1.1520434,46.1591126,
+Langley,http://www.tol.ca/Services-Contact/Open-Data/Open-Data-Catalogue,International Regional,6.3258262,48.3604648,
+Le Mans,http://www.lemans.fr/page.do?t=2&uuid=16CB26C7-550EA533-5AE8381B-D7A64AF8,International Regional,0.1967379,48.0073498,
+Leipzig,http://www.apileipzig.de/,International Regional,12.3747329,51.3406321,
+Library of the National Congress,http://datos.bcn.cl/es/,International Regional,32.54294347,15.68260995,
+Lichfield,http://lichfielddc.gov.uk/,International Regional,-1.8275286,52.6843696,
+Linz,http://data.linz.gv.at/,International Regional,14.286198,48.3059078,
+Lleida,http://cartolleida.paeria.es/lleidaoberta/inici.aspx,International Regional,0.6267842,41.6147605,
+Loire-Atlantique,http://data.loire-atlantique.fr/,International Regional,-1.872746121,47.34816145,
+Lombardy,https://dati.lombardia.it/,International Regional,9.768893,45.6209,
+Lucca,http://opendata.provincia.lucca.it/,International Regional,10.45315184,44.0176138,
+Manchester,http://www.manchester.gov.uk/info/500215/open_data,International Regional,-2.2451148,53.4794892,
+Medicine Hat,http://data.medicinehat.ca/,International Regional,-110.679016,50.04303,
+Merton Council,http://www.merton.gov.uk/council/dp-foi/opendata.htm,International Regional,147.2639242,-42.8486868,
+METI,http://datameti.go.jp/,International Regional,139.7509058,35.672176,
+Milan,http://dati.comune.milano.it/,International Regional,9.1905,45.4668,
+Ministry of Finances,http://www1.minfin.ru/ru/,International Regional,33.6394006,-25.039692,
+"Misiones Province, Argentina",http://www.datos.misiones.gov.ar/,International Regional,-62.26398514,-38.7412777,
+Mississauga,http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue,International Regional,-79.645729,43.590338,
+Missouri Accountability Portal,http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx,Other State Related,-92.175109,38.571403,
+Moers,http://www.offenedaten.moers.de/,International Regional,6.62843,51.451283,
+Montpellier,http://opendata.montpelliernumerique.fr/,International Regional,3.8767337,43.6112422,
+Montreal,http://donnees.ville.montreal.qc.ca/,International Regional,-73.6103642,45.4972159,
+Mosman Council,http://data.mosman.nsw.gov.au/,International Regional,151.2413547,-33.8252237,
+Nanaimo,http://www.nanaimo.ca/datafeeds,International Regional,-123.9379719,49.1637594,
+Nantes,http://data.nantes.fr/,International Regional,-1.5541362,47.2186371,
+Navarre,http://www.navarra.es/home_es/Open-Data/,International Regional,-1.830787683,42.61254875,
+New South Wales,http://data.nsw.gov.au/,International Regional,147.2869493,-31.8759835,
+New York State Data Center,http://esd.ny.gov/NYSDataCenter.html,Other State Related,-73.767091,42.655903,
+Niagara Falls,http://www.niagarafalls.ca/services/open/data,International Regional,-79.0614686,43.08436,
+Niagara Region,http://www.niagararegion.ca/government/opendata/default.aspx,International Regional,-79.3098089,43.0631891,
+Niederosterreich,http://www.ncopenbook.gov/NCOpenBook/,International Regional,16.154988,48.129237,
+North Devon Council,http://www.northdevon.gov.uk/index/lgcl_council_government_and_democracy/nonlgcl_open_data.htm,International Regional,-4.0591466,51.0802659,
+North Okanagan,http://www.rdno.ca/index.php/maps/digital-data,International Regional,-118.7147708,50.4164846,
+Novo Hamburgo,https://dados.novohamburgo.rs.gov.br//,International Regional,-51.1429035,-29.6905705,
+NY Department of Health,https://health.data.ny.gov/,Other State Related,-73.836062,40.896323,
+NY State Senate,http://www.nysenate.gov/opendata/,Other State Related,-74.0186479,41.9347685,
+Ontario,http://www.ontario.ca/government/government-ontario-open-data,International Regional,-86.000977,50.000678,
+Open Government,http://opendata.bigovernment.ru/results/,International Regional,80.01025828,9.6648966,
+Open Kent,http://www.openkent.org.uk/,International Regional,0.345480807,51.42246455,
+Open UN-Habitat Transparency Initiative,http://open.unhabitat.org/,International Regional,36.81818,-1.23268,
+OpenAid.se,http://openaid.se/,International Regional,14.895717,61.608467,
+Organization for Economic Cooperation and Development (OECD),http://stats.oecd.org/,International Regional,2.302753,48.850329,
+Pamplona,http://pamplona.es/verPagina.asp?IdPag=1519&Idioma=1,International Regional,-1.6442556,42.8184538,
+Piedmont,http://www.dati.piemonte.it/,International Regional,-122.231635,37.8243715,
+Prince George,http://princegeorge.ca/cityservices/online/odc/Pages/Documents.aspx,International Regional,-77.2153144,37.1815024,
+Puglia,http://www.dati.puglia.it/,International Regional,16.6210027,40.9842539,
+Qu_bec (City),http://donnees.ville.quebec.qc.ca/,International Regional,-71.2352226,46.8259601,
+Qu_bec (Province),http://data.gouv.qc.ca/?node=/accueil,International Regional,-3.8111778,43.4620332,
+Queensland,https://data.qld.gov.au/,International Regional,144.5844903,-22.1646782,
+Red Deer,http://www.reddeer.ca/City+Government/City+Services+and+Departments/Information+Technology+Services/Open+Data/About.htm,International Regional,-113.818359,52.269838,
+Redbridge,http://data.redbridge.gov.uk/,International Regional,0.0454097,51.5763203,
+Regina,http://openregina.cloudapp.net/,International Regional,-104.61731,50.44876,
+Region of Peel,http://opendata.peelregion.ca/,International Regional,-79.7090023,43.6474732,
+Rennes,http://www.data.rennes-metropole.fr/,International Regional,-1.6800198,48.1113387,
+Research Data,http://researchdata.ands.org.au/,International Regional,-0.758985995,52.05426815,
+Rheinland Pfalz,http://www.daten.rlp.de/,International Regional,7.310646,49.9531599,
+Rostock,http://datacatalogs.org/catalog/rostock,International Regional,12.1286127,54.0924445,
+Rotterdam,http://rotterdamopendata.nl,International Regional,4.4631727,51.9228958,
+Russian Open Budget,http://budget.gov.ru/data/opendata,International Regional,-122.228,37.32145035,
+Russian Open Police,http://data.openpolice.ru/,International Regional,-122.2293384,37.32145035,
+Saanich,http://www.saanich.ca/data/catalogue/index.php,International Regional,-123.3764946,48.4594315,
+Salford City Council,http://www.salford.gov.uk/opendata.htm,International Regional,-2.2718561,53.4851727,
+Sao Paulo,http://www.governoaberto.sp.gov.br/view/,International Regional,-46.6333824,-23.5506507,
+SaŽne-et-Loire,http://www.opendata71.fr/,International Regional,,,
+Sardinia,http://www.sardegnageoportale.it/index.html,International Regional,9.097753807,40.06160405,
+Saskatoon,http://www.saskatoon.ca/DEPARTMENTS/Corporate%20Services/Corporate%20Information%20Services/OpenData/Pages/OpenData.aspx,International Regional,-106.660767,52.131802,
+Shizuoka Prefecture(Shizuoka),http://open-data.pref.shizuoka.jp/htdocs/,International Regional,138.38299,34.979149,
+South Australia,http://data.sa.gov.au,International Regional,135.6301212,-30.5343665,
+South Australia Spatial Planning,http://www.planning.sa.gov.au/index.cfm?objectid=1C5C4F6F-96B8-CC2B-67DE3073BF2AE0EC,International Regional,135.65,-30.535,
+Surrey,http://www.surrey.ca/city-services/658.aspx,International Regional,-0.341452351,51.2715316,
+Sutton,https://www.sutton.gov.uk/index.aspx?articleid=15338,International Regional,-100.6432359,30.5672947,
+Tampere,http://tampere.fi/avoindata,International Regional,23.7603118,61.4980214,
+Tasmania Spatial Data Work,http://www.dpipwe.tas.gov.au/sif,International Regional,147.173477,-41.470343,
+Terrassa,http://opendata.terrassa.cat/,International Regional,2.0102442,41.5629885,
+Texas Transparency,http://www.texastransparency.org/opendata/index.php,Other State Related,-97.855035,30.304123,
+Toronto,http://www.toronto.ca/open,International Regional,-79.3839347,43.6534817,
+Toulouse,http://data.grandtoulouse.fr/,International Regional,1.4442469,43.6044622,
+Trafford Council,http://www.trafford.gov.uk/opendata/,International Regional,-2.3388814,53.4039235,
+Trentino,http://dati.trentino.it/,International Regional,11.1295431,46.102817,
+Trento,http://www.territorio.provincia.tn.it/portal/server.pt?open=512&objID=862&PageID=32157&mode=2&in_hi_userid=18720&cached=true,International Regional,11.1257601,46.0664228,
+Turin,http://www.comune.torino.it/aperto,International Regional,7.6824892,45.0677551,
+Tuscany,http://dati.toscana.it/,International Regional,11.1389204,43.4586541,
+Tyrol,http://www.tirol.gv.at/applikationen/e-government/data/,International Regional,11.5261028,47.223193,
+Udine,http://www.comune.udine.it/opencms/opencms/release/ComuneUdine/comune/Bilanci_comunali/open_data,International Regional,13.2358377,46.0634632,
+United Nations,http://data.un.org/,International Regional,120.9846145,14.5825457,
+Vancouver,http://data.vancouver.ca/,International Regional,-123.1139529,49.2608724,
+Veneto,http://dati.veneto.it/,International Regional,11.8665254,45.6476663,
+Venice,http://dati.venezia.it/,International Regional,12.3345898,45.4371908,
+Vicenza Geodata,http://www.comune.vicenza.it/uffici/dipgenpers/sistinf/sit/daticartografici.php,International Regional,11.545593,45.551144,
+Vorarlberg,http://data.vorarlberg.gv.at/,International Regional,9.9166667,47.25,
+Warwickshire,http://www.guardian.co.uk/world-government-data/search?facet_source_title=opendata.warwickshire.gov.uk,International Regional,-1.546785787,52.32130635,
+Waterloo,http://opendata.waterloo.ca/,International Regional,-92.3329637,42.4979693,
+Western Australia NewSLIP,https://www2.landgate.wa.gov.au/web/guest/slipstream-e-news,International Regional,122.217435,-25.288388,
+Windsor,http://www.citywindsor.ca/opendata/pages/open-data-catalogue.aspx,International Regional,-0.604139743,51.48379805,
+World Bank,http://data.worldbank.org/,International Regional,80.24437259,12.9838992,
+Wyre Council,http://www.wyre.gov.uk/opendata,International Regional,-3.0119337,53.874906,
+Zaragoza,http://www.zaragoza.es/ciudad/risp/,International Regional,-0.8809428,41.6521342,
+Zurich,http://data.stadt-zuerich.ch/content/portal/de/index/ogd/daten.html,International Regional,8.5423328,47.3723941,
